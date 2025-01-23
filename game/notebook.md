@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Librarian
+- [x] The Librarian
 - [x] The Journalist
 - [ ] The Shopkeeper
 
