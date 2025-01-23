@@ -25,5 +25,6 @@ the florist is in the science lab of the school
 clue saying to visit the shops
 the silver watch is in the bakery
 there is a glass bottle in the market
+the teacher is in the sandbox with the paint brush and garden shears
 
 Location of the crime is still unknown - the room must have been empty when it happened...
