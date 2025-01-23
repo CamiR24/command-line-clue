@@ -62,24 +62,4 @@ To make your investigation easier, we've set up a trail of clues! In many locati
 cat clue.txt
 ```
 
-The clues will help you navigate through town. Sometimes you'll need to:
-- Go into a building or room: `cd mansion`
-- Go back up one level: `cd ..`
-- Go back multiple levels: `cd ../..`
-- Move to a parallel room: `cd ../kitchen`
-
-For example, if a clue says "You notice movement in the garden", you might need to:
-```bash
-cd garden      # Enter the garden
-ls             # Check what's here
-cat clue.txt   # Read the next clue
-```
-
-## Tips for Success
-- Always check both `persons.txt` and `objects.txt` in each location
-- Update your notebook regularly as you find suspects and weapons
-- Follow the trail of clues to ensure you don't miss any locations
-- Remember that the crime happened in an empty room
-- Keep track of which suspects and weapons you've crossed off
-
-Happy investigating, Detective! The town is counting on you to solve this mystery!
+The murderer is the Shopkeeper with the Brass Bell
