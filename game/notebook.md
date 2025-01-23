@@ -2,12 +2,12 @@
 
 ## Suspects
 - [ ] The Librarian
-- [ ] The Journalist
+- [x] The Journalist
 - [ ] The Shopkeeper
 
 ## Weapons
 - [x] Steel Ruler
-- [ ] Leather Gloves
+- [x] Leather Gloves
 - [ ] Brass Bell
 
 ## Notes
@@ -23,5 +23,7 @@ in the town hall council chamber there are leather gloves
 there is a clue saying to reconsider the school
 the florist is in the science lab of the school
 clue saying to visit the shops
+the silver watch is in the bakery
+there is a glass bottle in the market
 
 Location of the crime is still unknown - the room must have been empty when it happened...
